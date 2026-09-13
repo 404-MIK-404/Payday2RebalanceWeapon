@@ -1,0 +1,10 @@
+{
+	"name" : "Template weapon",
+	"author" : "MIK",
+	"blt_version" : 2,	
+	"color" : "1 1 1",
+	"version" : "1.0",
+	"hooks":[
+		{ "hook_id":"lib/tweak_data/blackmarket/meleeweaponstweakdata", "script_path":"Weapon_Template_Rebalance.lua"}
+	]
+}
